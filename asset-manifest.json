@@ -1,30 +1,23 @@
 {
   "files": {
-    "main.css": "/kaungsettlwin-portfolio-react/static/css/main.66fa081d.css",
-    "main.js": "/kaungsettlwin-portfolio-react/static/js/main.367151e7.js",
-    "static/media/3706.jpg": "/kaungsettlwin-portfolio-react/static/media/3706.ec2ea65d9daccc6303da.jpg",
+    "main.css": "/kaungsettlwin-portfolio-react/static/css/main.b02e2e51.css",
+    "main.js": "/kaungsettlwin-portfolio-react/static/js/main.8dfe67a5.js",
     "static/media/personal-logo.png": "/kaungsettlwin-portfolio-react/static/media/personal-logo.7aebb5b340e3616d8a67.png",
-    "static/media/pngwing.com.png": "/kaungsettlwin-portfolio-react/static/media/pngwing.com.b3d44755213f039956e8.png",
-    "static/media/react.png": "/kaungsettlwin-portfolio-react/static/media/react.809fed23bcdd686de66e.png",
-    "static/media/python.png": "/kaungsettlwin-portfolio-react/static/media/python.6a5cbc319ab3ddf8ef92.png",
-    "static/media/letter-c.png": "/kaungsettlwin-portfolio-react/static/media/letter-c.ca323b325816f40cf155.png",
-    "static/media/java.png": "/kaungsettlwin-portfolio-react/static/media/java.ddf8676bd569fe01ab44.png",
-    "static/media/node-js.png": "/kaungsettlwin-portfolio-react/static/media/node-js.e328955d6bbbf3ebc72b.png",
-    "static/media/stamp.png": "/kaungsettlwin-portfolio-react/static/media/stamp.3a486d524aee78971ea7.png",
-    "static/media/sql-server.png": "/kaungsettlwin-portfolio-react/static/media/sql-server.d0875781b3030e385cc1.png",
-    "static/media/POSTGRESQL .jpeg": "/kaungsettlwin-portfolio-react/static/media/POSTGRESQL .b5fc31d5665b35ab38f3.jpeg",
+    "static/media/3706.jpg": "/kaungsettlwin-portfolio-react/static/media/3706.ff782efdfef45d39cb30.jpg",
+    "static/media/letter-c.png": "/kaungsettlwin-portfolio-react/static/media/letter-c.307c215169adeff30627.png",
     "static/media/api.png": "/kaungsettlwin-portfolio-react/static/media/api.b4448407872dc2a02104.png",
-    "static/media/html.png": "/kaungsettlwin-portfolio-react/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/POSTGRESQL .jpeg": "/kaungsettlwin-portfolio-react/static/media/POSTGRESQL .6aa16ecd7b271876a6eb.jpeg",
+    "static/media/react.png": "/kaungsettlwin-portfolio-react/static/media/react.552f1983bea689530c51.png",
     "static/media/docker.jpeg": "/kaungsettlwin-portfolio-react/static/media/docker.0924abc074785712445a.jpeg",
-    "static/media/StarUML.jpeg": "/kaungsettlwin-portfolio-react/static/media/StarUML.85da8b84433907c4f8fc.jpeg",
-    "static/media/css-3.png": "/kaungsettlwin-portfolio-react/static/media/css-3.463e319bad8e0edf1ef7.png",
-    "static/media/js.png": "/kaungsettlwin-portfolio-react/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/stamp.png": "/kaungsettlwin-portfolio-react/static/media/stamp.939e67a997e4d9f2d9b6.png",
+    "static/media/StarUML.jpeg": "/kaungsettlwin-portfolio-react/static/media/StarUML.7a516d02a32cb8d7e18a.jpeg",
+    "static/media/pngwing.com.png": "/kaungsettlwin-portfolio-react/static/media/pngwing.com.201dee3a69bf0a7999c6.png",
     "index.html": "/kaungsettlwin-portfolio-react/index.html",
-    "main.66fa081d.css.map": "/kaungsettlwin-portfolio-react/static/css/main.66fa081d.css.map",
-    "main.367151e7.js.map": "/kaungsettlwin-portfolio-react/static/js/main.367151e7.js.map"
+    "main.b02e2e51.css.map": "/kaungsettlwin-portfolio-react/static/css/main.b02e2e51.css.map",
+    "main.8dfe67a5.js.map": "/kaungsettlwin-portfolio-react/static/js/main.8dfe67a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.66fa081d.css",
-    "static/js/main.367151e7.js"
+    "static/css/main.b02e2e51.css",
+    "static/js/main.8dfe67a5.js"
   ]
 }

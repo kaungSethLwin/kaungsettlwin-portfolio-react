@@ -1,23 +1,20 @@
 {
   "files": {
-    "main.css": "/kaungsettlwin-portfolio-react/static/css/main.b02e2e51.css",
-    "main.js": "/kaungsettlwin-portfolio-react/static/js/main.8dfe67a5.js",
+    "main.css": "/kaungsettlwin-portfolio-react/static/css/main.f46336e8.css",
+    "main.js": "/kaungsettlwin-portfolio-react/static/js/main.f2b78bc0.js",
     "static/media/personal-logo.png": "/kaungsettlwin-portfolio-react/static/media/personal-logo.7aebb5b340e3616d8a67.png",
     "static/media/3706.jpg": "/kaungsettlwin-portfolio-react/static/media/3706.ff782efdfef45d39cb30.jpg",
-    "static/media/letter-c.png": "/kaungsettlwin-portfolio-react/static/media/letter-c.307c215169adeff30627.png",
-    "static/media/api.png": "/kaungsettlwin-portfolio-react/static/media/api.b4448407872dc2a02104.png",
     "static/media/POSTGRESQL .jpeg": "/kaungsettlwin-portfolio-react/static/media/POSTGRESQL .6aa16ecd7b271876a6eb.jpeg",
     "static/media/react.png": "/kaungsettlwin-portfolio-react/static/media/react.552f1983bea689530c51.png",
     "static/media/docker.jpeg": "/kaungsettlwin-portfolio-react/static/media/docker.0924abc074785712445a.jpeg",
     "static/media/stamp.png": "/kaungsettlwin-portfolio-react/static/media/stamp.939e67a997e4d9f2d9b6.png",
-    "static/media/StarUML.jpeg": "/kaungsettlwin-portfolio-react/static/media/StarUML.7a516d02a32cb8d7e18a.jpeg",
     "static/media/pngwing.com.png": "/kaungsettlwin-portfolio-react/static/media/pngwing.com.201dee3a69bf0a7999c6.png",
     "index.html": "/kaungsettlwin-portfolio-react/index.html",
-    "main.b02e2e51.css.map": "/kaungsettlwin-portfolio-react/static/css/main.b02e2e51.css.map",
-    "main.8dfe67a5.js.map": "/kaungsettlwin-portfolio-react/static/js/main.8dfe67a5.js.map"
+    "main.f46336e8.css.map": "/kaungsettlwin-portfolio-react/static/css/main.f46336e8.css.map",
+    "main.f2b78bc0.js.map": "/kaungsettlwin-portfolio-react/static/js/main.f2b78bc0.js.map"
   },
   "entrypoints": [
-    "static/css/main.b02e2e51.css",
-    "static/js/main.8dfe67a5.js"
+    "static/css/main.f46336e8.css",
+    "static/js/main.f2b78bc0.js"
   ]
 }
